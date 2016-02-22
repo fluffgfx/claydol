@@ -1,0 +1,19 @@
+{
+  "name": "claydol",
+  "version": "0.1.0",
+  "description": "NodeJS PokeAPI Wrapper",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vulpino/claydol.git"
+  },
+  "author": "vulpino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vulpino/claydol/issues"
+  },
+  "homepage": "https://github.com/vulpino/claydol#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
